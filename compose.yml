@@ -65,7 +65,7 @@ services:
   #   networks:
   #     - cdp-tenant
 
-  cdp-node-backend-template:
+  geez-mongo-user-06:
     build:
       context: .
       target: development
